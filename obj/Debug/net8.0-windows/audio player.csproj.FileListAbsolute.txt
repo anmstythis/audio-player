@@ -1,0 +1,30 @@
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.csproj.AssemblyReference.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player_MarkupCompile.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player_MarkupCompile.lref
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\audio player.exe
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\audio player.deps.json
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\audio player.runtimeconfig.json
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\audio player.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\audio player.pdb
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\App.baml
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.g.resources
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.AssemblyInfoInputs.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.AssemblyInfo.cs
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.csproj.CoreCompileInputs.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.csproj.CopyComplete
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\refint\audio player.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.pdb
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\audio player.genruntimeconfig.cache
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\ref\audio player.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\HistoryWindow.g.cs
+C:\Users\My\OneDrive\Документы\конспекты\ОАиП C#\audio player\audio player\obj\Debug\net8.0-windows\HistoryWindow.baml
